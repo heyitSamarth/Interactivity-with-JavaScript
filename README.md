@@ -1,2 +1,2 @@
-# Interactivity-with-JavaScript
-Coursera
+## Interactivity-with-JavaScript
+
